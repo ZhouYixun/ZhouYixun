@@ -8,5 +8,5 @@ Author of ✨[Sonic](https://sonic-cloud.gitee.io)✨ and Owner of ✨[SonicClou
 
 📫 <291028775@qq.com>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouYixun&theme=bright&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouYixun&orgs=SonicCloudOrg&theme=bright&layout=compact)
 
