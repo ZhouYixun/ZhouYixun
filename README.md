@@ -12,5 +12,11 @@ Admin of 🎉[Sonic User community](https://sonic-cloud.wiki/).
 
 Oh! My email 📫 <291028775@qq.com>
 
-![Most Used Languages](https://github-readme-stats-one-bice.vercel.app/api?username=ZhouYixun&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&line_height=29&theme=bright&layout=compact)
+<p align="right">
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=ZhouYixun&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=bright&layout=compact" />
+
+<img  float="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ZhouYixun&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+
+</p>
+
 
