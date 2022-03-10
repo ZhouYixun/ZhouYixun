@@ -8,7 +8,7 @@ Author of ✨[Sonic](https://sonic-cloud.gitee.io)✨.
 
 Owner of ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨.
 
-Admin of 🎉[Sonic User community](https://sonic-cloud.wiki/).
+Admin of 🎉[Sonic User Community](https://sonic-cloud.wiki/).
 
 Oh! My email 📫 <291028775@qq.com>
 
