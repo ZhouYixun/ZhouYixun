@@ -1,6 +1,6 @@
 ### Hi, I am **ZhouYixun** 👋
 
-My English name is **Eason** and I was born in 1998.
+My English name is **Eason** .
 
 Now I am a Test Development Engineer/ Tools Development Engineer.😄
 
