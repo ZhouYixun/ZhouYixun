@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ZhouYixun.ZhouYixun" />
 <img src="https://img.shields.io/github/followers/ZhouYixun?color=27da6b" />
-<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-zyx291028775-71f9fe?logo=WeChat" />
+<img src="https://img.shields.io/badge/-291028775@qq.com-c14438?style=flat&logo=Gmail&logoColor=white" />
 </p>
 
 
