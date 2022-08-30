@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/-291028775@qq.com-c14438?style=flat&logo=Gmail&logoColor=white" />
 </p>
 
-> 广州人，现在在上海就职。不喜欢葱和香菜。
->
 > 正在努力让这个世界变得美好。
 
 - Author of ✨[Sonic](https://sonic-cloud.gitee.io)✨.
