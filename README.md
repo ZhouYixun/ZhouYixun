@@ -8,11 +8,12 @@
 </p>
 
 > 正在努力让这个世界变得美好。
+> ✨[Sonic](https://sonic-cloud.gitee.io)✨作者。
+> ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨所有者。
 >
-> 但是缺钱。
-
-- Author of ✨[Sonic](https://sonic-cloud.gitee.io)✨. Sonic作者。
-- Owner of ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨. SonicCloudOrg所有者。
+> I'm trying to make the world better.
+> Author of ✨[Sonic](https://sonic-cloud.gitee.io)✨. 
+> Owner of ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨.
 
 <h3 align="center">Github Stat</h3>
 <p align="center">
