@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/-291028775@qq.com-c14438?style=flat&logo=Gmail&logoColor=white" />
 </p>
 
+> ---
+>
 > 正在努力让这个世界变得美好。
 > 
 > ✨[Sonic](https://sonic-cloud.gitee.io)✨作者。
@@ -20,6 +22,8 @@
 > Author of ✨[Sonic](https://sonic-cloud.gitee.io)✨. 
 > 
 > Owner of ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨.
+>
+> ---
 
 <h3 align="center">Github Stat</h3>
 <p align="center">
