@@ -2,7 +2,7 @@
 
 <h4 align="center">A Test / Tools Development Engineer from China.😄</h4>
 <p align="center">
-<a href="https://github.com/SonicCloudOrg">
+<a href="https://github.com/SonicCloudOrg" target="_blank">
 <img src="https://img.shields.io/github/stars/SonicCloudOrg?affiliations=OWNER&style=social">
 </a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ZhouYixun.ZhouYixun" />
