@@ -5,7 +5,7 @@
 <a href="https://github.com/SonicCloudOrg" target="_blank">
 <img src="https://img.shields.io/github/stars/SonicCloudOrg?affiliations=OWNER&style=social">
 </a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ZhouYixun.ZhouYixun" />
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=ZhouYixun.ZhouYixun" /> -->
 <img src="https://img.shields.io/github/followers/ZhouYixun?color=c780fa" />
 <img src="https://img.shields.io/badge/-291028775@qq.com-c14438?style=flat&logo=Gmail&logoColor=white" />
 </p>
