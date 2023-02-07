@@ -7,23 +7,21 @@
 </a>
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=ZhouYixun.ZhouYixun" /> -->
 <img src="https://img.shields.io/github/followers/ZhouYixun?color=c780fa" />
-<img src="https://img.shields.io/badge/-291028775@qq.com-c14438?style=flat&logo=Gmail&logoColor=white" />
 </p>
 
-> ---
->
-> 正在努力让这个世界变得美好。
-> 
-> ✨[Sonic](https://sonic-cloud.cn/)✨作者。
-> 
-> ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨所有者。
->
-> ---
->
-> I'm trying to make the world better.
-> 
-> Author of ✨[Sonic](https://sonic-cloud.cn/)✨. 
-> 
-> Owner of ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨.
->
-> ---
+
+I'm trying to make the world better.
+
+- Author of ✨[Sonic](https://sonic-cloud.cn/)✨. 
+- Owner of ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨.
+
+---
+### 💖 Support me
+I open-source almost everything I can and try to reply to everyone needing help using sonic projects. Obviously, this takes time.
+
+However, if you are using sonic project and are satisfied with it, or just want to encourage me to continue to create things, you can do this in the following ways: 
+
+- Starring and sharing sonic. 🚀
+- [![paypal.me/zhouyixun](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/zhouyixun)  - You can make one-time donations via PayPal. I'll probably buy a better keyboard.
+
+Thanks! ❤️
