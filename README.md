@@ -12,7 +12,7 @@
 
 I'm trying to make the world better.
 
-- Author of ✨[Sonic](https://sonic-cloud.cn/)✨ ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨.
+- Author of ✨[Sonic](https://soniccloudorg.github.io/)✨ ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨.
 - Author of ✨[Cine Fox](https://github.com/Cine-Fox)✨
 
 ---
