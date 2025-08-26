@@ -22,6 +22,5 @@ I open-source almost everything I can and try to reply to everyone needing help 
 However, if you are using sonic project and are satisfied with it, or just want to encourage me to continue to create things, you can do this in the following ways: 
 
 - Starring and sharing. 🚀
-- [opencollective](https://opencollective.com/eason_fpv)  - You can make one-time donations via Opencollective. I'll probably buy a better keyboard.
 
 Thanks! ❤️
