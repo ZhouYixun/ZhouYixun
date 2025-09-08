@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4 align="center">A Development Engineer from China.😄</h4>
+<h4 align="center">A Software Engineer from China.😄</h4>
 <p align="center">
 <a href="https://github.com/SonicCloudOrg" target="_blank">
 <img src="https://img.shields.io/github/stars/soniccloudorg?style=social">
