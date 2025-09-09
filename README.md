@@ -12,8 +12,8 @@
 
 I'm trying to make the world better.
 
-- Author of ✨[Sonic](https://soniccloudorg.github.io/)✨ ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨.
-- Author of ✨[Cine Fox](https://github.com/Cine-Fox)✨
+- Author of ✨[Sonic](https://soniccloudorg.github.io/)✨, Owner of ✨[SonicCloudOrg](https://github.com/SonicCloudOrg)✨.
+- Author of ✨[Cine Fox Camera](https://cine-fox.github.io/)✨, Owner of ✨[Cine-Fox](https://github.com/Cine-Fox)✨.
 
 I also fly FPV drones. This is my Bilibili account [Eason不炸机FPV](https://space.bilibili.com/583516163)
 
